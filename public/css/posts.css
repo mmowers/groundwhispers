@@ -1,0 +1,55 @@
+#shout-form,
+#user-lat,
+#user-lng{
+	display: none;
+}
+#body-outer-div{
+	width: 100%;
+	max-width: 400px;
+	margin: 20px auto 0;
+	padding: 10px;
+}
+#control-buttons{
+	text-align:center;
+	padding: 10px;
+	border-bottom: 2px lightgrey solid;
+	margin-bottom: 10px;
+}
+/*main-button-div{
+	text-align:center;
+}*/
+#posttext{
+	width: 100%;
+}
+select{
+	width: auto;
+	height: auto;
+}
+.post{
+	border-bottom: 1px solid lightgrey;
+	margin-bottom: 15px;
+	/*margin-left: 40px;*/
+	padding-bottom: 15px;	
+}
+#sortby-outer{
+	text-align: right;
+}
+.post-username{
+	font-weight: bold;
+}
+.post-text{
+	font-style: italic;
+}
+#postbutton-outer{
+	text-align: center;
+}
+#fblink{
+	/*display: none;*/
+}
+.vote-button-div{
+	float: left;
+	text-align: center;
+}
+.post-outer{
+	margin-left: 50px;
+}
